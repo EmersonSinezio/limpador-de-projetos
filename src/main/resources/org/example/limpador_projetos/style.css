@@ -1,0 +1,7 @@
+#selectButton{
+    -fx-background-color: #0000cc;
+}
+
+#selectButton:hover{
+    -fx-background-color: #0000e5;
+}
